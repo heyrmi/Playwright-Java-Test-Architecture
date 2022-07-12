@@ -3,7 +3,7 @@ package org.heyrmi.reports;
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
-import org.heyrmi.contants.FrameworkConstants;
+import org.heyrmi.constants.FrameworkConstants;
 
 import java.util.Objects;
 

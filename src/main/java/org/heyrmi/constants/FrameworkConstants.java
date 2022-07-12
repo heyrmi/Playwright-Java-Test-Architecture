@@ -1,4 +1,4 @@
-package org.heyrmi.contants;
+package org.heyrmi.constants;
 
 import lombok.Getter;
 
